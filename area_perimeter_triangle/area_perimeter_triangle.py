@@ -5,3 +5,4 @@ height = int(input("Enter the height"))
 area = base*height/2
 perimeter = side1+side2+base
 print("Area= ",area, "\nPerimeter= ", perimeter)
+print("yooooooooooooo this is so much better loloool!!!!!!!!")
